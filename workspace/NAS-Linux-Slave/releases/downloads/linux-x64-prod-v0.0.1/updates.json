@@ -1,12 +1,9 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/ranjith77s/NASAPPImageTest/releases/download/linux-x64-prod-v0.0.1/NovAtelApplicationSuite_64bit.AppImage",
-    "install": "https://github.com/ranjith77s/NASAPPImageTest/releases/download/linux-x64-prod-v0.0.1/NovAtelApplicationSuite_64bit.AppImage",
+    "update": "https://github.com/ranjith77s/NASAPPImageTest/workspace/NAS-Linux-Slave/releases/downloads/linux-x64-prod-v0.0.1//NovAtelApplicationSuite_64bit.AppImage",
+    "install": "https://github.com/ranjith77s/NASAPPImageTest/workspace/NAS-Linux-Slave/releases/downloads/linux-x64-prod-v0.0.1//NovAtelApplicationSuite_64bit.AppImage",
     "version": "0.0.1",
     "sha256": "50e30322cdc83c0af182fff773920d6e093eff7d4c22bf19bca5cbdf762ab1fb"
   }
 }
-
-
-
 
